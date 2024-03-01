@@ -2,7 +2,7 @@ public class Road {
 
   private int arrivalCity, departureCity;
 
-  public Road(int departureCity, int arrivalCity){
+  public Road(int departureCity, int arrivalCityty){
     this.departureCity = departureCity;
     this.arrivalCity = arrivalCity;
   }
