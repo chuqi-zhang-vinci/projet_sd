@@ -24,7 +24,7 @@ public class Graph {
   }
 
   protected void ajouterSommet(City c) {
-    Set<Road> roads = new HashSet<>();
+    Set<Road> roads = new HashSet<>(); //lalala
     outputRoads.put(c, roads);
   }
 
